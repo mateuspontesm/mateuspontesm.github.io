@@ -44,13 +44,13 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: Skills
 more_content: | # this will include new lines to allow paragraphs
-  Spoken Languages: Portuguese (native), English (Full Professional), French (Professional).
+  **Spoken Languages**: Portuguese (native), English (Full Professional), French (Professional).
 
-  Software: LaTeX, Git, MATLAB, Office Suites, Tableau, Power BI.
+  **Software**: LaTeX, Git, MATLAB, Office Suites, Tableau, Power BI.
 
-  Programming: Python, SQL
+  **Programming**: Python, SQL
 
-  Frameworks and Libraries: Scikit-Learn, Keras, Pytorch, Bokeh 
+  **Frameworks and Libraries**: Scikit-Learn, Keras, Pytorch, Bokeh 
 
 
 # Footer
