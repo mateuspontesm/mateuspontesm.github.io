@@ -1,4 +1,4 @@
-- layout: left
+- layout: right
   name: Federal University of Ceará
   dates: February 2018 - March 2020
   qualification: MSc in Telecommunications Engineering
@@ -7,7 +7,18 @@
   description: | # this will include new lines to allow paragraphs
     Research on Machine Learning and Big Data applied to 5G Networks.
 
+    My master thesis involves the study of reinforcement learning based solutions to the link adaptation problem.
+
 - layout: left
+  name: Centro Universitário 7 de Setembro
+  dates: September 2017 - February 2020
+  qualification: Graduate Studies in Data Science
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+    Specialization studies in Business Intelligence, Big Data and Data Analytics.
+
+- layout: right
   name: Federal University of Ceará
   dates: January 2010 - July 2017
   qualification: BSc Telecommunications Engineering
@@ -24,10 +35,3 @@
     CentraleSupélec is widely considered to be among the top 2 engineering schools of France.
   description: | # this will include new lines to allow paragraphs
     One year exchange studies under the BRAFITEC program.
-
-- layout: left
-  name: Centro Universitário 7 de Setembro
-  dates: September 2017 - February 2020
-  qualification: Graduate Studies in Data Science
-  description: | # this will include new lines to allow paragraphs
-    Specialization studies in Business Intelligence, Big Data and Data Analytics.
