@@ -22,7 +22,7 @@ linkedin_username: mateuspontesm
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile-mateus.jpeg
+about_profile_image: images/globecom_avatar_2.png
 about_content: | # this will include new lines to allow paragraphs
   Hello there. My name's Mateus and I'm a Msc. student in Telecommunications Engineering, my research is focused in machine learning applied to 5G Networks, more specifically reinforcement learning based solutions applied in 5G scenarios.
 

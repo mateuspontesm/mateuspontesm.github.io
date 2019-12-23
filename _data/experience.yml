@@ -6,6 +6,10 @@
   quote: >
    The GTEL-UFC is a research center with knowledge about wireless telecommunications and provides this knowledge in technical and scientific partnerships with public and private entities, notably through research and development projects.
   description: | # this will include new lines to allow paragraphs
-    Development of a Reinforcement Learning solution to Link Adaptation in 5G systems.\\
-    Development of a Python simulator in compliance with T.S. 38.212 and T.S 38.214.\\
+    Development of a Reinforcement Learning solution to Link Adaptation in 5G systems.
+
+
+    Development of a Python simulator in compliance with T.S. 38.212 and T.S 38.214.
+
+    
     Published the paper "Adaptive Modulation and Coding based on Reinforcement Learning for 5G Networks" at 2019 IEEE Globecom Workshop on Machine Learning for Wireless Communications
