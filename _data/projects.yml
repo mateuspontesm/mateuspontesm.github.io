@@ -5,6 +5,7 @@
   # quote: >
     # We design a self-exploratory reinforcement learning (RL) framework, based on the Q-learning algorithm, that enables the base station (BS) to choose a suitable modulation and coding scheme (MCS) that maximizes the spectral efficiency while maintaining a low block error rate (BLER).
   description: | # this will include new lines to allow paragraphs
+
     We design a self-exploratory reinforcement learning (RL) framework, based on the Q-learning algorithm, that enables the base station (BS) to choose a suitable modulation and coding scheme (MCS) that maximizes the spectral efficiency while maintaining a low block error rate (BLER).
 
     Published in 2019 IEEE Globecom Workshops (GC Wkshps).
