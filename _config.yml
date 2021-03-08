@@ -2,6 +2,12 @@
 repository: mateuspontesm/mateuspontesm.github.io
 favicon: images/favicon.ico
 
+# Content configuration version
+version: 2
+
+# Dark Mode (true/false/never)
+darkmode: false
+
 # Personal info
 name: Mateus Mota
 title: PhD. Student and Early Stage Researcher
@@ -28,7 +34,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 
   My name's Mateus and I'm a PhD. student in Telecommunications Engineering, my research is focused in machine learning applied to Mobile Networks, more specifically deep reinforcement learning based solutions.
-  
+
   My Masters research was focused in reinforcement learning based solutions applied in 5G scenarios.
 
   Aside from machine learning, I also have knowledge in Business Intelligence and Data Analysis from a graduate studies course.
