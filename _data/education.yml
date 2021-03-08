@@ -1,4 +1,4 @@
-- layout: right
+- layout: left
   name: Institut National des Sciences Appliquées de Lyon (INSA Lyon)
   dates: September 2020 - August 2023
   qualification: PhD in Telecommunications Engineering
@@ -10,7 +10,7 @@
     My PhD studies involve the study of deep reinforcement learning applied to radio resource management problems.
 
 
-- layout: left
+- layout: right
   name: Federal University of Ceará
   dates: February 2018 - March 2020
   qualification: MSc in Telecommunications Engineering
@@ -21,7 +21,7 @@
 
     My master thesis involves the study of reinforcement learning based solutions to the link adaptation problem.
 
-- layout: right
+- layout: left
   name: Centro Universitário 7 de Setembro
   dates: September 2017 - February 2020
   qualification: Graduate Studies in Data Science
@@ -30,7 +30,7 @@
   description: | # this will include new lines to allow paragraphs
     Specialization studies in Business Intelligence, Big Data and Data Analytics.
 
-- layout: left
+- layout: right
   name: Federal University of Ceará
   dates: January 2010 - July 2017
   qualification: BSc Telecommunications Engineering
@@ -39,7 +39,7 @@
   description: | # this will include new lines to allow paragraphs
     My bachelor thesis was on the study on Machine Learning solutions applied to Indoor Localization Problem, devising a 3D WLAN Indoor Localization System based on RSSI fingerprints.
 
-- layout: right
+- layout: left
   name: SUPÉLEC
   dates: September 2012 - July 2013
   qualification: Exchange Program in Electrical Engineering
