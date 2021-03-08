@@ -1,8 +1,20 @@
 - layout: left
+  company: Nokia Bell Labs France
+  link: https://www.bell-labs.com/
+  job_title: Early Stage Researcher
+  dates: September 2020 - Present
+  quote: >
+   Nokia Bell Labs is the world-renowned industrial research arm of Nokia, having invented many of the foundational technologies that underpin information and communications networks and all digital devices and systems.
+  description: | # this will include new lines to allow paragraphs
+    Current research involves the application of Deep Reinforcement Learning to Mobile Networks.
+
+    Member of the WindMill Project, an European Training Network (ETN) project, within the framework of the H2020 Marie Skłodowska-Curie Innovative Training Networks (ITNs).
+
+- layout: right
   company: Wireless Communications Research Group - GTEL
   link: gtel.ufc.br
   job_title: Researcher
-  dates: November 2018 - Present
+  dates: November 2018 - April 2020
   quote: >
    The GTEL-UFC is a research center with knowledge about wireless telecommunications and provides this knowledge in technical and scientific partnerships with public and private entities, notably through research and development projects.
   description: | # this will include new lines to allow paragraphs
