@@ -9,3 +9,15 @@
     We design a self-exploratory reinforcement learning (RL) framework, based on the Q-learning algorithm, that enables the base station (BS) to choose a suitable modulation and coding scheme (MCS) that maximizes the spectral efficiency while maintaining a low block error rate (BLER).
 
     Published in 2019 IEEE Globecom Workshops (GC Wkshps).
+
+- layout: top-middle
+  name: The Emergence of Wireless MAC Protocols with Multi-Agent Reinforcement Learning
+  link: https://arxiv.org/abs/2108.07144
+  # github: sproogen/resume-theme
+  # quote: >
+    # We design a self-exploratory reinforcement learning (RL) framework, based on the Q-learning algorithm, that enables the base station (BS) to choose a suitable modulation and coding scheme (MCS) that maximizes the spectral efficiency while maintaining a low block error rate (BLER).
+  description: | # this will include new lines to allow paragraphs
+
+    We propose a new framework, exploiting the multi-agent deep deterministic policy gradient (MADDPG) algorithm, to enable a base station (BS) and user equipment (UE) to come up with a medium access control (MAC) protocol in a multiple access scenario
+
+    Accepted for the 2021 IEEE Globecom Workshops (GC Wkshps).
