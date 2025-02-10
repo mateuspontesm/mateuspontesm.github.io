@@ -33,15 +33,15 @@ about_content: | # this will include new lines to allow paragraphs
   Hello there.
 
 
-  My name's Mateus and I'm a PhD. student in Telecommunications Engineering, my research is focused in machine learning applied to Mobile Networks, more specifically deep reinforcement learning based solutions.
+  My name's Mateus and I'm a researcher in Machine Learning applied for Wireless Communications. My current research involves ML solutions for semmantic and goal-oriented communications.
 
+  My PhD research was focused on multi-agent reinforcement learning for protocol emergence, by jointly learning a resource management policy and the associated signalling.
+  
   My Masters research was focused in reinforcement learning based solutions applied in 5G scenarios.
 
   Aside from machine learning, I also have knowledge in Business Intelligence and Data Analysis from a graduate studies course.
 
-  My main interests are Deep Reinforcement Learning, Link Adaptation techniques and PHY/MAC layers.
-
-  I am most skilled in: <mark>Python</mark> and <mark>Matlab</mark>
+  My main interests are Deep Reinforcement Learning, Semmantic and Goal-oriented communications, Link Adaptation techniques and PHY/MAC layers.
 
 # Experience Section
 experience_title: Experience
