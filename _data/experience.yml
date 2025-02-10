@@ -1,16 +1,29 @@
 - layout: left
+  company: CEA-LETI
+  link: https://www.leti-cea.com/
+  job_title: Post-doctoral Researcher
+  dates: May 2024 - Present
+  quote: >
+   CEA-Leti is a research institute for electronics and information technologies. It is one of the world's largest organizations for applied research in microelectronics and nanotechnology.
+  description: | # this will include new lines to allow paragraphs
+    Current research involves the application of Machine Learning to Semmantic and Goal-Oriented wireless communications.
+
+    Member of the 6G-GOALS Project [(link)](https://sites.google.com/view/6ggoals/)
+
+- layout: right
   company: Nokia Bell Labs France
   link: https://www.bell-labs.com/
   job_title: Early Stage Researcher
-  dates: September 2020 - Present
+  dates: September 2020 - September 2023
   quote: >
    Nokia Bell Labs is the world-renowned industrial research arm of Nokia, having invented many of the foundational technologies that underpin information and communications networks and all digital devices and systems.
   description: | # this will include new lines to allow paragraphs
-    Current research involves the application of Deep Reinforcement Learning to Mobile Networks.
+    Development of MARL solutions for automated protocol design in wireless networks.
 
     Member of the WindMill Project, an European Training Network (ETN) project, within the framework of the H2020 Marie Skłodowska-Curie Innovative Training Networks (ITNs).
 
-- layout: right
+
+- layout: left
   company: Wireless Communications Research Group - GTEL
   link: gtel.ufc.br
   job_title: Researcher
