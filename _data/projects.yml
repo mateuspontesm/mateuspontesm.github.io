@@ -1,23 +1,73 @@
 - layout: top-middle
-  name: Adaptive Modulation and Coding based on Reinforcement Learning for 5G Networks
-  link: ieeexplore.ieee.org/document/9024384
-  # github: sproogen/resume-theme
-  # quote: >
-    # We design a self-exploratory reinforcement learning (RL) framework, based on the Q-learning algorithm, that enables the base station (BS) to choose a suitable modulation and coding scheme (MCS) that maximizes the spectral efficiency while maintaining a low block error rate (BLER).
+  name: "PhD Thesis: Protocol Emergence with Multi-Agent Reinforcement Learning"
+  link: https://theses.hal.science/tel-04728859
   description: | # this will include new lines to allow paragraphs
+    Multi-agent reinforcement learning framework in which base station and user equipment jointly learn a channel access policy and the associated signalling, letting MAC protocols emerge from data rather than being hand-designed.
 
-    We design a self-exploratory reinforcement learning (RL) framework, based on the Q-learning algorithm, that enables the base station (BS) to choose a suitable modulation and coding scheme (MCS) that maximizes the spectral efficiency while maintaining a low block error rate (BLER).
+    PhD thesis, INSA de Lyon / Nokia Bell Labs, 2024.
 
-    Published in 2019 IEEE Globecom Workshops (GC Wkshps).
+- layout: top-middle
+  name: "MSc Thesis: Link Adaptation Solutions based on Reinforcement Learning for 5G New Radio"
+  link: https://repositorio.ufc.br/handle/riufc/51771
+  description: | # this will include new lines to allow paragraphs
+    Self-exploratory reinforcement learning frameworks for link adaptation in 5G NR, including a Q-learning approach to adaptive modulation and coding.
+
+    MSc dissertation, Federal University of Ceará, 2020.
+
+- layout: top-middle
+  name: Collaborative Edge Inference via Semantic Grouping under Wireless Channel Constraints
+  description: | # this will include new lines to allow paragraphs
+    M. P. Mota, M. Merluzzi, E. Calvanese Strinati.
+
+    2025 33rd European Signal Processing Conference (EUSIPCO).
+
+- layout: top-middle
+  name: Joint Channel and Semantic-Aware Grouping for Effective Collaborative Edge Inference
+  description: | # this will include new lines to allow paragraphs
+    M. P. Mota, M. Merluzzi, E. Calvanese Strinati.
+
+    2025 IEEE 26th International Workshop on Signal Processing and Artificial Intelligence for Wireless Communications (SPAWC).
+
+- layout: top-middle
+  name: Intent-aware DRL-based NOMA Uplink Dynamic Scheduler for IIoT
+  description: | # this will include new lines to allow paragraphs
+    S. Mostafa, M. P. Mota, A. Valcarce, M. Bennis.
+
+    IEEE Transactions on Cognitive Communications and Networking, vol. 11, no. 6, 2025.
+
+- layout: top-middle
+  name: Goal-oriented Communications based on Recursive Early Exit Neural Networks
+  description: | # this will include new lines to allow paragraphs
+    J. Pomponi, M. Merluzzi, A. Devoto, M. P. Mota, P. Di Lorenzo, S. Scardapane.
+
+    2024 58th Asilomar Conference on Signals, Systems, and Computers.
+
+- layout: top-middle
+  name: Scalable Joint Learning of Wireless Multiple-Access Policies and their Signaling
+  description: | # this will include new lines to allow paragraphs
+    M. P. Mota, A. Valcarce, J.-M. Gorce.
+
+    2022 IEEE 95th Vehicular Technology Conference (VTC2022-Spring).
 
 - layout: top-middle
   name: The Emergence of Wireless MAC Protocols with Multi-Agent Reinforcement Learning
   link: https://arxiv.org/abs/2108.07144
-  # github: sproogen/resume-theme
-  # quote: >
-    # We design a self-exploratory reinforcement learning (RL) framework, based on the Q-learning algorithm, that enables the base station (BS) to choose a suitable modulation and coding scheme (MCS) that maximizes the spectral efficiency while maintaining a low block error rate (BLER).
   description: | # this will include new lines to allow paragraphs
+    M. P. Mota, A. Valcarce, J.-M. Gorce, J. Hoydis.
 
-    We propose a new framework, exploiting the multi-agent deep deterministic policy gradient (MADDPG) algorithm, to enable a base station (BS) and user equipment (UE) to come up with a medium access control (MAC) protocol in a multiple access scenario
+    2021 IEEE Globecom Workshops (GC Wkshps).
 
-    Accepted for the 2021 IEEE Globecom Workshops (GC Wkshps).
+- layout: top-middle
+  name: Uplink Power Control Framework Based on Reinforcement Learning for 5G Networks
+  description: | # this will include new lines to allow paragraphs
+    F. H. Costa Neto, D. Costa Araújo, M. P. Mota, T. F. Maciel, A. L. F. de Almeida.
+
+    IEEE Transactions on Vehicular Technology, vol. 70, no. 6, 2021.
+
+- layout: top-middle
+  name: Adaptive Modulation and Coding based on Reinforcement Learning for 5G Networks
+  link: https://ieeexplore.ieee.org/document/9024384
+  description: | # this will include new lines to allow paragraphs
+    M. P. Mota, D. C. Araujo, F. H. Costa Neto, A. L. F. de Almeida, F. R. Cavalcanti.
+
+    2019 IEEE Globecom Workshops (GC Wkshps).

@@ -1,5 +1,8 @@
 <div class="container projects-container">
   <h3>{{ site.projects_title | default: "Projects" }}</h3>
+  {%- if site.scholar_url -%}
+    <p>For the full list of publications, see my {% include a.html href=site.scholar_url %}Google Scholar profile</a>.</p>
+  {%- endif -%}
   {% for project in site.data.projects %}
     {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
   {% endfor %}
