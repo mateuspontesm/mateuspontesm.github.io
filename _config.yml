@@ -10,9 +10,9 @@ darkmode: false
 
 # Personal info
 name: Mateus Mota
-title: Post-Doctoral Researcher
+title: Machine Learning Research Scientist | Postdoctoral Researcher at CEA-Leti
 email: mateuspontesm@outlook.com
-website: www.github.com/mateuspontesm
+website: https://mateuspontesm.github.io
 
 # Social links
 # twitter_username: facespics
@@ -22,6 +22,9 @@ github_username:  mateuspontesm
 # flickr_username: jekyll
 # instagram_username: chillwildlife
 linkedin_username: mateuspontesm
+
+# Google Scholar profile (linked from the Selected Publications section)
+scholar_url: https://scholar.google.com/citations?view_op=search_authors&mauthors=Mateus+Pontes+Mota
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -33,15 +36,13 @@ about_content: | # this will include new lines to allow paragraphs
   Hello there.
 
 
-  My name's Mateus and I'm a researcher in Machine Learning applied for Wireless Communications. My current research involves ML solutions for semantic and goal-oriented communications.
+  My name's Mateus and I'm a machine learning research scientist specializing in AI for wireless communications, with broader expertise in reinforcement learning, deep learning and learned compression.
 
-  My PhD research was focused on multi-agent reinforcement learning for protocol emergence, by jointly learning a resource management policy and the associated signalling.
-  
-  My Masters research was focused in reinforcement learning based solutions applied in 5G scenarios.
+  As a postdoc at CEA-Leti, I develop deep learning methods for semantic and goal-oriented communications: deep image compression, deep joint source-channel coding (DJSCC) and collaborative perception for connected agents. I also work on model-based RL and world models (Dreamer-style architectures).
 
-  Aside from machine learning, I also have knowledge in Business Intelligence and Data Analysis from a graduate studies course.
+  My PhD (INSA Lyon / Nokia Bell Labs) focused on multi-agent reinforcement learning for automated protocol design, where agents learn to communicate and coordinate in wireless networks. My Masters research was focused on reinforcement learning solutions for link adaptation in 5G.
 
-  My main interests are Deep Reinforcement Learning, Semmantic and Goal-oriented communications, Link Adaptation techniques and PHY/MAC layers.
+  My core areas are reinforcement learning (multi-agent, model-based), world models, deep learning, learned compression, computer vision / cooperative perception, and 6G and AI-native networks.
 
 # Experience Section
 experience_title: Experience
@@ -55,13 +56,15 @@ projects_title: Selected Publications
 # More Section
 more_title: Skills
 more_content: | # this will include new lines to allow paragraphs
-  **Spoken Languages**: Portuguese (native), English (Full Professional), French (Professional).
+  **Spoken Languages**: Portuguese (native), English (native or bilingual), French (professional working).
 
-  **Software**: LaTeX, Git, MATLAB, Office Suites, Tableau, Power BI.
+  **Machine Learning**: Deep Learning, Deep Reinforcement Learning (multi-agent, model-based), World Models, Learned Compression, Computer Vision.
 
   **Programming**: Python, SQL
 
-  **Frameworks and Libraries**: Scikit-Learn, Keras, Pytorch, Bokeh
+  **Frameworks and Libraries**: PyTorch, Keras, Scikit-Learn, Bokeh
+
+  **Software**: LaTeX, Git, MATLAB, Office Suites, Tableau, Power BI.
 
 
 # Footer

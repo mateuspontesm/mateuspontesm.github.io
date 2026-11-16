@@ -5,9 +5,9 @@
   quote: >
     Ranked as the 10° best Engineering School in France by the L'étudiant 2021 ranking.
   description: | # this will include new lines to allow paragraphs
-    Research on Reinforcement Learning applied to Mobile Networks.
+    PhD carried out with Nokia Bell Labs France as part of the H2020 Marie Skłodowska-Curie WindMill project.
 
-    My PhD studies involve the study of deep reinforcement learning applied to radio resource management problems.
+    Research on multi-agent reinforcement learning for automated protocol design, where agents jointly learn a resource management policy and the associated signalling.
 
     Thesis: *Protocol Emergence with Multi-Agent Reinforcement Learning* [link](https://theses.hal.science/tel-04728859)
 
@@ -21,6 +21,8 @@
     Research on Machine Learning and Big Data applied to 5G Networks.
 
     My master thesis involves the study of reinforcement learning based solutions to the link adaptation problem.
+
+    Thesis: *Link Adaptation Solutions based on Reinforcement Learning for 5G New Radio* [link](https://repositorio.ufc.br/handle/riufc/51771)
 
 - layout: left
   name: Centro Universitário 7 de Setembro
