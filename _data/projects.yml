@@ -6,6 +6,7 @@
 
     PhD thesis, INSA de Lyon / Nokia Bell Labs, 2024.
 
+
 - layout: top-middle
   name: "MSc Thesis: Link Adaptation Solutions based on Reinforcement Learning for 5G New Radio"
   link: https://repositorio.ufc.br/handle/riufc/51771
@@ -14,12 +15,6 @@
 
     MSc dissertation, Federal University of Ceará, 2020.
 
-- layout: top-middle
-  name: Collaborative Edge Inference via Semantic Grouping under Wireless Channel Constraints
-  description: | # this will include new lines to allow paragraphs
-    M. P. Mota, M. Merluzzi, E. Calvanese Strinati.
-
-    2025 33rd European Signal Processing Conference (EUSIPCO).
 
 - layout: top-middle
   name: Joint Channel and Semantic-Aware Grouping for Effective Collaborative Edge Inference
@@ -28,26 +23,6 @@
 
     2025 IEEE 26th International Workshop on Signal Processing and Artificial Intelligence for Wireless Communications (SPAWC).
 
-- layout: top-middle
-  name: Intent-aware DRL-based NOMA Uplink Dynamic Scheduler for IIoT
-  description: | # this will include new lines to allow paragraphs
-    S. Mostafa, M. P. Mota, A. Valcarce, M. Bennis.
-
-    IEEE Transactions on Cognitive Communications and Networking, vol. 11, no. 6, 2025.
-
-- layout: top-middle
-  name: Goal-oriented Communications based on Recursive Early Exit Neural Networks
-  description: | # this will include new lines to allow paragraphs
-    J. Pomponi, M. Merluzzi, A. Devoto, M. P. Mota, P. Di Lorenzo, S. Scardapane.
-
-    2024 58th Asilomar Conference on Signals, Systems, and Computers.
-
-- layout: top-middle
-  name: Scalable Joint Learning of Wireless Multiple-Access Policies and their Signaling
-  description: | # this will include new lines to allow paragraphs
-    M. P. Mota, A. Valcarce, J.-M. Gorce.
-
-    2022 IEEE 95th Vehicular Technology Conference (VTC2022-Spring).
 
 - layout: top-middle
   name: The Emergence of Wireless MAC Protocols with Multi-Agent Reinforcement Learning
@@ -57,12 +32,6 @@
 
     2021 IEEE Globecom Workshops (GC Wkshps).
 
-- layout: top-middle
-  name: Uplink Power Control Framework Based on Reinforcement Learning for 5G Networks
-  description: | # this will include new lines to allow paragraphs
-    F. H. Costa Neto, D. Costa Araújo, M. P. Mota, T. F. Maciel, A. L. F. de Almeida.
-
-    IEEE Transactions on Vehicular Technology, vol. 70, no. 6, 2021.
 
 - layout: top-middle
   name: Adaptive Modulation and Coding based on Reinforcement Learning for 5G Networks
