@@ -90,6 +90,13 @@
             </a>
           </li>
         {%- endif -%}
+        {%- if site.scholar_url -%}
+          <li>
+            <a target="_blank" href="{{ site.scholar_url | escape }}" class="button button--sacnite button--round-l">
+              <i class="fab fa-google-scholar" title="Google Scholar link"></i>
+            </a>
+          </li>
+        {%- endif -%}
         {%- if site.orcid_username -%}
           <li>
             <a target="_blank" href="https://orcid.org/{{ site.orcid_username | escape }}" class="button button--sacnite button--round-l">
