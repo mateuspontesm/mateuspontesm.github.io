@@ -1,16 +1,24 @@
+// Applied when the visitor's OS prefers a dark color scheme
+// (assets/js/index.js from the theme adds the "dark" class to <body>).
 .dark,
 .dark * {
-  background-color: #222;
+  background-color: #0B1F3A;
   color: #e6e6e6;
 }
 
 .dark {
   mark {
-    color: #222;
+    color: #0B1F3A;
     background-color: #e6e6e6;
   }
 
   a {
-    color: #477dca;
+    color: #8FB3E8;
+  }
+
+  a:active,
+  a:focus,
+  a:hover {
+    color: #C4D7F3;
   }
 }
