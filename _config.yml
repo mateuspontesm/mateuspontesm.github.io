@@ -53,6 +53,9 @@ educaton_title: Education
 # Projects Section
 projects_title: Selected Publications
 
+# Open-source projects section (shown before Selected Publications)
+open_source_title: Projects
+
 # More Section
 more_title: Skills
 more_content: | # this will include new lines to allow paragraphs
