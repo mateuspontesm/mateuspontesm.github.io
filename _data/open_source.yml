@@ -1,0 +1,7 @@
+- layout: top-middle
+  name: rl_agents
+  link: https://github.com/mateuspontesm/rl_agents
+  description: | # this will include new lines to allow paragraphs
+    Reinforcement learning library in PyTorch covering single-agent (PPO, A2C, DDPG, TD3, SAC), multi-agent (MAPPO, MAA2C, MADDPG, MATD3, MASAC and their independent versions) and model-based (Dreamer) algorithms.
+
+    Feed-forward and recurrent (LSTM/GRU) networks, prioritized and n-step replay, action masking and custom feature extractors.

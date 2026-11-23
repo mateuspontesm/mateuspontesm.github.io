@@ -28,6 +28,10 @@
         {%- include more.html -%}
       {%- endif -%}
 
+      {%- if site.data.open_source.size > 0 -%}
+        {%- include open_source.html -%}
+      {%- endif -%}
+
       {%- if site.data.projects.size > 0 -%}
         {%- include projects.html -%}
       {%- endif -%}
